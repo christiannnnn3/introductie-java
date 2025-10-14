@@ -1,0 +1,17 @@
+int help;
+help=15 % 4+3;
+println(help);
+int aaaaaaa;
+aaaaaaa=15 % (4 + 3);
+println(aaaaaaa);
+int rick;
+rick = 10 + 5 * 8 -3;
+println(rick);
+int mark =(10+5)*(8-3);
+println(mark);
+int julian;
+julian=((10+5)*2)-3;
+println(julian);
+int sem;
+sem=10+5*2-3;
+println(sem);
